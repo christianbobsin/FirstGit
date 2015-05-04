@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\FirstGit\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.exe.config
+C:\Users\Christian\Documents\GitHub\FirstGit\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.exe
+C:\Users\Christian\Documents\GitHub\FirstGit\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.pdb
+C:\Users\Christian\Documents\GitHub\FirstGit\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\FirstGit\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.exe
+C:\Users\Christian\Documents\GitHub\FirstGit\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.pdb
